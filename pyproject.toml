@@ -1,5 +1,5 @@
 [project]
-name = "agentic-project-planning-workflow"
+name = "project-planning-agents"
 version = "0.1.0"
 description = "A multi-agent planning prototype with semantic routing and evaluator-driven refinement"
 readme = "README.md"
